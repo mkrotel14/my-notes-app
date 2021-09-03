@@ -1,11 +1,11 @@
 <h1 align="center">My Notes App</h1>
 
 <p align="center">
-  <a href="About">About</a> &#xa0; | &#xa0; 
-  <a href="Features">Features</a> &#xa0; | &#xa0;
-  <a href="Technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="Requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="Starting">Starting</a>
+  <a href="#About">About</a> &#xa0; | &#xa0; 
+  <a href="#Features">Features</a> &#xa0; | &#xa0;
+  <a href="#Technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#Requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#Starting">Starting</a>
 </p>
 
 <div align="center">
@@ -26,7 +26,7 @@ A React-Native App for taking notes
 ## Features ##
 
 :heavy_check_mark: Create a new note (Personal/Work/Ideas/Lists);\
-:heavy_check_mark: Editid the note;\
+:heavy_check_mark: Edit the note;\
 :heavy_check_mark: Remove the note.
 
 ## Technologies ##
